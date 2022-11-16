@@ -1,0 +1,11 @@
+C:\Users\Tangerine\source\repos\P2PChat\P2PChat\bin\Debug\P2PChat.exe.config
+C:\Users\Tangerine\source\repos\P2PChat\P2PChat\bin\Debug\P2PChat.exe
+C:\Users\Tangerine\source\repos\P2PChat\P2PChat\bin\Debug\P2PChat.pdb
+C:\Users\Tangerine\source\repos\P2PChat\P2PChat\obj\Debug\P2PChat.csproj.AssemblyReference.cache
+C:\Users\Tangerine\source\repos\P2PChat\P2PChat\obj\Debug\P2PChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tangerine\source\repos\P2PChat\P2PChat\obj\Debug\P2PChat.Form1.resources
+C:\Users\Tangerine\source\repos\P2PChat\P2PChat\obj\Debug\P2PChat.Properties.Resources.resources
+C:\Users\Tangerine\source\repos\P2PChat\P2PChat\obj\Debug\P2PChat.csproj.GenerateResource.cache
+C:\Users\Tangerine\source\repos\P2PChat\P2PChat\obj\Debug\P2PChat.csproj.CoreCompileInputs.cache
+C:\Users\Tangerine\source\repos\P2PChat\P2PChat\obj\Debug\P2PChat.exe
+C:\Users\Tangerine\source\repos\P2PChat\P2PChat\obj\Debug\P2PChat.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2PChat", "P2PChat\P2PChat.csproj", "{7FE7D7A4-7399-4DDA-B036-F839AE0F16BB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Chats", "Chats\Chats.vdproj", "{62BCA936-2470-4052-9388-44F07CC896B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE7D7A4-7399-4DDA-B036-F839AE0F16BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE7D7A4-7399-4DDA-B036-F839AE0F16BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE7D7A4-7399-4DDA-B036-F839AE0F16BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE7D7A4-7399-4DDA-B036-F839AE0F16BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BCA936-2470-4052-9388-44F07CC896B3}.Debug|Any CPU.ActiveCfg = Debug
+		{62BCA936-2470-4052-9388-44F07CC896B3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A644BE0A-2719-4CBB-B1B9-60EC2C452A0A}
+	EndGlobalSection
+EndGlobal
