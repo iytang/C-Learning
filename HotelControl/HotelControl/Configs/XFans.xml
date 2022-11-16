@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--风机信息-->
+<Fans>
+	<Fan>
+		<FanName>01#风机</FanName>
+		<StateParaName>Fan01Run</StateParaName>
+		<TemperParaName>CurTemperature01</TemperParaName>
+	</Fan>
+	<Fan>
+		<FanName>02#风机</FanName>
+		<StateParaName>Fan02Run</StateParaName>
+		<TemperParaName>CurTemperature02</TemperParaName>
+	</Fan>
+	<Fan>
+		<FanName>03#风机</FanName>
+		<StateParaName>Fan03Run</StateParaName>
+		<TemperParaName>CurTemperature03</TemperParaName>
+	</Fan>
+	<Fan>
+		<FanName>04#风机</FanName>
+		<StateParaName>Fan04Run</StateParaName>
+		<TemperParaName>CurTemperature04</TemperParaName>
+	</Fan>
+	<Fan>
+		<FanName>05#风机</FanName>
+		<StateParaName>Fan05Run</StateParaName>
+		<TemperParaName>CurTemperature05</TemperParaName>
+	</Fan>
+	<Fan>
+		<FanName>06#风机</FanName>
+		<StateParaName>Fan06Run</StateParaName>
+		<TemperParaName>CurTemperature06</TemperParaName>
+	</Fan>
+	<Fan>
+		<FanName>07#风机</FanName>
+		<StateParaName>Fan07Run</StateParaName>
+		<TemperParaName>CurTemperature07</TemperParaName>
+	</Fan>
+	<Fan>
+		<FanName>08#风机</FanName>
+		<StateParaName>Fan08Run</StateParaName>
+		<TemperParaName>CurTemperature08</TemperParaName>
+	</Fan>
+	<Fan>
+		<FanName>09#风机</FanName>
+		<StateParaName>Fan09Run</StateParaName>
+		<TemperParaName>CurTemperature09</TemperParaName>
+	</Fan>
+	<Fan>
+		<FanName>10#风机</FanName>
+		<StateParaName>Fan10Run</StateParaName>
+		<TemperParaName>CurTemperature10</TemperParaName>
+	</Fan>
+</Fans>
