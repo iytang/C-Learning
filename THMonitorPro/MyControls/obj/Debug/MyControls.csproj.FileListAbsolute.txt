@@ -1,0 +1,9 @@
+C:\Users\Tangerine\source\repos\MyControls\MyControls\bin\Debug\MyControls.dll
+C:\Users\Tangerine\source\repos\MyControls\MyControls\bin\Debug\MyControls.pdb
+C:\Users\Tangerine\source\repos\MyControls\MyControls\obj\Debug\MyControls.csproj.AssemblyReference.cache
+C:\Users\Tangerine\source\repos\MyControls\MyControls\obj\Debug\MyControls.Properties.Resources.resources
+C:\Users\Tangerine\source\repos\MyControls\MyControls\obj\Debug\MyControls.THMonitor.resources
+C:\Users\Tangerine\source\repos\MyControls\MyControls\obj\Debug\MyControls.csproj.GenerateResource.cache
+C:\Users\Tangerine\source\repos\MyControls\MyControls\obj\Debug\MyControls.csproj.CoreCompileInputs.cache
+C:\Users\Tangerine\source\repos\MyControls\MyControls\obj\Debug\MyControls.dll
+C:\Users\Tangerine\source\repos\MyControls\MyControls\obj\Debug\MyControls.pdb

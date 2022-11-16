@@ -1,0 +1,6 @@
+C:\Users\Tangerine\source\repos\MyControls\Models\bin\Debug\Models.dll
+C:\Users\Tangerine\source\repos\MyControls\Models\bin\Debug\Models.pdb
+C:\Users\Tangerine\source\repos\MyControls\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Tangerine\source\repos\MyControls\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Tangerine\source\repos\MyControls\Models\obj\Debug\Models.dll
+C:\Users\Tangerine\source\repos\MyControls\Models\obj\Debug\Models.pdb

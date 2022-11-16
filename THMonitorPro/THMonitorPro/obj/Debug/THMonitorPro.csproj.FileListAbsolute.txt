@@ -1,0 +1,17 @@
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\bin\Debug\THMonitorPro.exe.config
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\bin\Debug\THMonitorPro.exe
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\bin\Debug\THMonitorPro.pdb
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\bin\Debug\Models.dll
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\bin\Debug\MyControls.dll
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\bin\Debug\Models.pdb
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\bin\Debug\MyControls.pdb
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\obj\Debug\THMonitorPro.csproj.AssemblyReference.cache
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\obj\Debug\THMonitorPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\obj\Debug\THMonitorPro.FrmControlTest.resources
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\obj\Debug\THMonitorPro.FrmMain.resources
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\obj\Debug\THMonitorPro.Properties.Resources.resources
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\obj\Debug\THMonitorPro.csproj.GenerateResource.cache
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\obj\Debug\THMonitorPro.csproj.CoreCompileInputs.cache
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\obj\Debug\THMonitorPro.csproj.CopyComplete
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\obj\Debug\THMonitorPro.exe
+C:\Users\Tangerine\source\repos\MyControls\THMonitorPro\obj\Debug\THMonitorPro.pdb
